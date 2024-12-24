@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Apurba Dey</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
@@ -10,6 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurbacd" alt="apurbacd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Data Structure**
+
+- 👨‍💻 All of my projects are available at [ApurbaCD](ApurbaCD)
 
 - 📫 How to reach me **apurbadey31273127@gmail.com**
 
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurbacd&show_icons=true&locale=en" alt="apurbacd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apurbacd&" alt="apurbacd" /></p>
-
